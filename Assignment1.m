@@ -11,12 +11,12 @@ yvec = [1:1:1000];
 % Initialise all zeros
 Z = zeros(size(X));
 
-% Use hyperbola as the shape
+% Use ellipse as the shape
 % Define the initial coordinates of the center
 x1 = 100;
 y1 = 200;
 
-% define the other parameters of the hyperbola
+% define the other parameters of the ellipse
 a = 40;
 b = 20;
 
